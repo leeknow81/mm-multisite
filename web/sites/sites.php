@@ -56,5 +56,5 @@
  * @see https://www.drupal.org/documentation/install/multi-site
  */
 
-$sites['multisite.code.site2'] = 'multisite.code.site2';
-$sites['multisite.code.site1'] = 'multisite.code.site1';
+$sites['site2.devcodeweb.com'] = 'site2.devcodeweb.com';
+$sites['site1.devcodeweb.com'] = 'site1.devcodeweb.com';
